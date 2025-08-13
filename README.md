@@ -83,32 +83,25 @@ Garantir:
 
 > As imagens a seguir ilustram o fluxo de uso do aplicativo.
 
-### Tela de Abrir RDM
-![Tela de Abrir RDM](imagens/Abrindo_RDM.jpeg)
-
-### Tela de Informações da Viagem
-![Tela de Informações da Viagem](imagens/Informacoes_viagem.jpeg)
-
-### Tela Inicial
-![Tela Inicial](imagens/Tela_inicial.jpeg)
-
-### Viagem Pausada
-![Viagem Pausada](imagens/Viagem_pausada.jpeg)
-
-### Viagem em Andamento
-![Viagem em Andamento](imagens/Viagem_em_andamento.jpeg)
-
-### Adicionando Parada
-![Adicionando Parada](imagens/Adicionando_Parada.jpeg)
-
-### Corrida em Andamento com Parada feita
-![Corrida em Andamento com Parada feita](imagens/Corrida_em_andamento_com_uma_parada_feita.jpeg)
-
-### Histórico
-![Histórico](imagens/Historico.jpeg)
-
-### Finalizar Corrida
-![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg)
+<p align="center">
+  <img src="imagens/Abrindo_RDM.jpeg" width="200">
+  <img src="imagens/Informacoes_viagem.jpeg" width="200">
+</p>
+<p align="center">
+  <img src="imagens/Tela_inicial.jpeg" width="200">
+  <img src="imagens/Viagem_pausada.jpeg" width="200">
+</p>
+<p align="center">
+  <img src="imagens/Viagem_em_andamento.jpeg" width="200">
+  <img src="imagens/Adicionando_Parada.jpeg" width="200">
+</p>
+<p align="center">
+  <img src="imagens/Corrida_em_andamento_com_uma_parada_feita.jpeg" width="200">
+  <img src="imagens/Historico.jpeg" width="200">
+</p>
+<p align="center">
+  <img src="imagens/Finalizar_Corrida.jpeg" width="200">
+</p>
 
 ---
 
@@ -116,4 +109,6 @@ Garantir:
 
 > Caso possua um vídeo ou GIF demonstrando o uso do app, insira-o aqui.
 
-![Demonstração](imagens/demo.gif)
+<p align="center">
+  <img src="imagens/demo.gif" width="300">
+</p>
