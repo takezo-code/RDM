@@ -44,10 +44,12 @@ Garantir:
 ## 6. Funcionalidades Principais
 - Registro de corridas com quilometragem e destino
 - Monitoramento em tempo real das paradas via sistema web
+- Registro automático do horário de cada parada quando o motorista retoma a corrida
 - Exportação do histórico de corridas finalizadas
 - Integração via API com endpoints para envio e recebimento de dados
 - Persistência local de informações para uso offline temporário
 - Banco de dados com cadastro de veículos disponíveis
+
 
 ---
 
