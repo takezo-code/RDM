@@ -103,13 +103,3 @@ Garantir:
 |:---:|:---:|
 | ![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg) | ![Histórico](imagens/Historico.jpeg) |
 
-
----
-
-## 🎥 Demonstração em Vídeo ou GIF
-
-> Caso possua um vídeo ou GIF demonstrando o uso do app, insira-o aqui.
-
-| Demonstração |
-|:---:|
-| ![Demonstração](imagens/demo.gif) |
