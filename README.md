@@ -85,7 +85,7 @@ Garantir:
 
 | Tela Inicial | Criando Usuário |
 |:---:|:---:|
-| ![Tela Inicial](imagens/Tela_inicial.jpeg) | ![Criando Usuário](imagens/Criando_usuario.jpeg) |
+| ![Criando Usuário](imagens/Criando_usuario.jpeg) | ![Tela Inicial](imagens/Tela_inicial.jpeg) |
 
 | Abrir RDM | Informações da Viagem |
 |:---:|:---:|
