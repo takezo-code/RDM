@@ -1,4 +1,4 @@
-# 📌 Sistema RDM – Registro de Deslocamentos de Motoristas
+# 📌 RDM – Registro de Deslocamentos de Motoristas
 
 ## 1. Visão Geral
 O **RDM** é um aplicativo desenvolvido para **monitorar e registrar corridas realizadas pelos motoristas da Cosanpa**, permitindo maior controle e fiscalização das viagens pela gerência.
