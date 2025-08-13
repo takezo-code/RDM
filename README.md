@@ -81,27 +81,28 @@ Garantir:
 
 ## 📸 Imagens do Aplicativo
 
-> As imagens a seguir ilustram o fluxo de uso do aplicativo.
+> As imagens a seguir ilustram o fluxo real de uso do aplicativo.
+
+| Tela Inicial | Criando Usuário |
+|:---:|:---:|
+| ![Tela Inicial](imagens/Tela_inicial.jpeg) | ![Criando Usuário](imagens/Criando_usuario.jpeg) |
 
 | Abrir RDM | Informações da Viagem |
 |:---:|:---:|
 | ![Abrir RDM](imagens/Abrindo_RDM.jpeg) | ![Informações da Viagem](imagens/Informacoes_viagem.jpeg) |
 
-| Tela Inicial | Viagem Pausada |
-|:---:|:---:|
-| ![Tela Inicial](imagens/Tela_inicial.jpeg) | ![Viagem Pausada](imagens/Viagem_pausada.jpeg) |
-
 | Viagem em Andamento | Adicionando Parada |
 |:---:|:---:|
 | ![Viagem em Andamento](imagens/Viagem_em_andamento.jpeg) | ![Adicionando Parada](imagens/Adicionando_Parada.jpeg) |
 
-| Corrida em Andamento com Parada | Histórico |
+| Viagem Pausada | Corrida em Andamento com Parada |
 |:---:|:---:|
-| ![Corrida em Andamento com Parada](imagens/Corrida_em_andamento_com_uma_parada_feita.jpeg) | ![Histórico](imagens/Historico.jpeg) |
+| ![Viagem Pausada](imagens/Viagem_Pausada.jpeg) | ![Corrida em Andamento com Parada](imagens/Corrida_em_andamento_com_uma_parada_feita.jpeg) |
 
-| Finalizar Corrida | |
+| Finalizar Corrida | Histórico |
 |:---:|:---:|
-| ![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg) | |
+| ![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg) | ![Histórico](imagens/Historico.jpeg) |
+
 
 ---
 
