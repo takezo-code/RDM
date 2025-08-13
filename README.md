@@ -85,10 +85,14 @@ Garantir:
 > Substitua os arquivos de exemplo pelas imagens reais do seu app.  
 > Coloque todas as imagens na pasta `/imagens/` do repositório.
 
-![Tela de Criar Usuário](imagens/criar_usuario.png)
+![Tela de Criar Usuário](imagens/Abrir RDM)
 ![Tela de Abrir RDM](imagens/abrir_rdm.png)
 ![Tela de Informações da Corrida](imagens/info_corrida.png)
 ![Tela de Corrida em Andamento](imagens/corrida_andamento.png)
+![Tela de Adicionar Parada](imagens/historico.png)
+![Tela de Viagem Pausada](imagens/historico.png)
+![Tela de Corrida em Andamento com Parada feita](imagens/historico.png)
+![Tela de Finalizar Corrida](imagens/historico.png)
 ![Tela de Histórico](imagens/historico.png)
 
 ---
