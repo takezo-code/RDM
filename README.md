@@ -50,7 +50,6 @@ Garantir:
 - Persistência local de informações para uso offline temporário
 - Banco de dados com cadastro de veículos disponíveis
 
-
 ---
 
 ## 7. Dependências e Requisitos
@@ -82,18 +81,34 @@ Garantir:
 
 ## 📸 Imagens do Aplicativo
 
-> Substitua os arquivos de exemplo pelas imagens reais do seu app.  
-> Coloque todas as imagens na pasta `/imagens/` do repositório.
+> As imagens a seguir ilustram o fluxo de uso do aplicativo.
 
-![Tela de Criar Usuário](imagens/Abrir RDM)
-![Tela de Abrir RDM](imagens/abrir_rdm.png)
-![Tela de Informações da Corrida](imagens/info_corrida.png)
-![Tela de Corrida em Andamento](imagens/corrida_andamento.png)
-![Tela de Adicionar Parada](imagens/historico.png)
-![Tela de Viagem Pausada](imagens/historico.png)
-![Tela de Corrida em Andamento com Parada feita](imagens/historico.png)
-![Tela de Finalizar Corrida](imagens/historico.png)
-![Tela de Histórico](imagens/historico.png)
+### Tela de Abrir RDM
+![Tela de Abrir RDM](imagens/Abrindo_RDM.jpeg)
+
+### Tela de Informações da Viagem
+![Tela de Informações da Viagem](imagens/Informacoes_viagem.jpeg)
+
+### Tela Inicial
+![Tela Inicial](imagens/Tela_inicial.jpeg)
+
+### Viagem Pausada
+![Viagem Pausada](imagens/Viagem_pausada.jpeg)
+
+### Viagem em Andamento
+![Viagem em Andamento](imagens/Viagem_em_andamento.jpeg)
+
+### Adicionando Parada
+![Adicionando Parada](imagens/Adicionando_Parada.jpeg)
+
+### Corrida em Andamento com Parada feita
+![Corrida em Andamento com Parada feita](imagens/Corrida_em_andamento_com_uma_parada_feita.jpeg)
+
+### Histórico
+![Histórico](imagens/Historico.jpeg)
+
+### Finalizar Corrida
+![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg)
 
 ---
 
