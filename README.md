@@ -81,7 +81,6 @@ Garantir:
 
 ## 📸 Imagens do Aplicativo
 
-> As imagens a seguir ilustram o fluxo real de uso do aplicativo.
 
 | Tela Inicial | Criando Usuário |
 |:---:|:---:|
