@@ -89,7 +89,7 @@ Garantir:
 
 | Abrir RDM | Informações da Viagem |
 |:---:|:---:|
-| ![Abrir RDM](imagens/Abrindo_RDM.jpeg) | ![Informações da Viagem](imagens/Informacoes_viagem.jpeg) |
+| ![Abrir RDM](imagens/Abrindo_RDM.jpeg) | 
 
 | Viagem em Andamento | Adicionando Parada |
 |:---:|:---:|
