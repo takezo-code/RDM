@@ -87,7 +87,7 @@ Garantir:
 |:---:|:---:|
 | ![Criando Usuário](imagens/Criando_usuario.jpeg) | ![Tela Inicial](imagens/Tela_inicial.jpeg) |
 
-| Abrir RDM | Informações da Viagem |
+| Abrir RDM |
 |:---:|:---:|
 | ![Abrir RDM](imagens/Abrindo_RDM.jpeg) | 
 
