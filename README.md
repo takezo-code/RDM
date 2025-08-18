@@ -101,3 +101,15 @@ Garantir:
 | Finalizar Corrida | Histórico |
 |:---:|:---:|
 | ![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg) | ![Histórico](imagens/Historico.jpeg) |
+
+---
+
+## 🌐 Imagens do Sistema Web
+
+| Motoristas | Veículos |
+|:---:|:---:|
+| ![Motoristas](imagens/motoristas.png) | ![Veículos](imagens/veiculos.png) |
+
+| Viagens |
+|:---:|
+| ![Viagens](imagens/viagens.png) |
