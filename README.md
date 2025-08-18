@@ -85,11 +85,11 @@ Garantir:
 
 | Tela Inicial | Criando Usuário |
 |:---:|:---:|
-| ![Criando Usuário](imagens/Criando_usuario.jpeg) | ![Tela Inicial](imagens/Tela_inicial.jpeg) |
+| ![Tela Inicial](imagens/Tela_inicial.jpeg) | ![Criando Usuário](imagens/Criando_usuario.jpeg) |
 
 | Abrir RDM |
-|:---:|:---:|
-| ![Abrir RDM](imagens/Abrindo_RDM.jpeg) | 
+|:---:|
+| ![Abrir RDM](imagens/Abrindo_RDM.jpeg) |
 
 | Viagem em Andamento | Adicionando Parada |
 |:---:|:---:|
@@ -102,4 +102,3 @@ Garantir:
 | Finalizar Corrida | Histórico |
 |:---:|:---:|
 | ![Finalizar Corrida](imagens/Finalizar_Corrida.jpeg) | ![Histórico](imagens/Historico.jpeg) |
-
