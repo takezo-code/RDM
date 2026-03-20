@@ -25,10 +25,10 @@ Garantir:
 ---
 
 ## 4. Tecnologias Utilizadas
-- **Front-end** (aplicativo mobile): React Native
-- **Back-end** (sistema web e API): PHP + Laravel
+- **Front-end (mobile)**: React Native
+- **Back-end (painel administrativo)**: PHP + Laravel
 - **API REST** para integração entre app e sistema web
-- **Banco de dados** com cadastro de veículos e informações de cada carro
+- **Banco de dados** para cadastro de veículos, motoristas e viagens
 
 ---
 
@@ -66,7 +66,7 @@ Garantir:
 ---
 
 ## 9. Manutenção e Atualizações
-- Refinamento e refatoração do código conforme novas necessidades
+- Refatoração e evolução do código conforme novas necessidades
 - Correção de bugs
 - Melhorias de desempenho e usabilidade
 
@@ -74,13 +74,13 @@ Garantir:
 
 ## 10. Observações Técnicas
 - API construída com endpoints REST para comunicação entre app e sistema web
+- Backend estruturado em **Laravel**, seguindo boas práticas de organização
 - Integração segura com autenticação de usuários
 - Estrutura preparada para futuras expansões de funcionalidades
 
 ---
 
 ## 📸 Imagens do Aplicativo
-
 
 | Tela Inicial | Criando Usuário |
 |:---:|:---:|
